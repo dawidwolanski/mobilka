@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">apka</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_authors">AuthorsActivity</string>
+    <string name="title_activity_cfg">CfgActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appname">LangApp</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="tileFrontText">Lang</string>
+    <string name="end_game_string">game won, gg</string>
+    <string name="continue_btn_text">continue</string>
+    <string name="dictionary_api">https://api.dictionaryapi.dev/api/v2/entries/en/%1$s</string>
+</resources>

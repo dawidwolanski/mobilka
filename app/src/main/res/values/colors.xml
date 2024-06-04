@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme_main">#5B2F5F</color>
+    <color name="tile_back_pl">#6E5670</color>
+    <color name="tile_back_en">#554257</color>
+
+</resources>
